@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "labyrinth/drachma"
+	"$surfaceprop" "metal"
+	"Proxies"
+	{
+		"AnimatedTexture"
+			{
+				"animatedTextureVar" "$basetexture"
+ 				"animatedTextureFrameNumVar" "$frame"
+  				"animatedTextureFrameRate" 10
+  			}
+	}
+}
+// Texture by PAL-18  (FTWGamer.com)
+

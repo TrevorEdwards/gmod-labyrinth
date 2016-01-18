@@ -1,0 +1,15 @@
+"Labryrinth"
+{
+	"base"		"base"
+	"title"		"Labyrinth"
+	"maps"		"^lab"
+	"menusystem"	"1"
+	"workshopid"	"233263749"
+	"entry_id"     "1"
+
+	"settings"
+	{
+
+	}
+
+}

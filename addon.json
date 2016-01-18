@@ -1,0 +1,9 @@
+{
+	"title"		:	"Labyrinth",
+	"type"		:	"gamemode",
+	"tags"		:	[ "fun", "comic" ],
+	"ignore"	:
+	[
+		"gamemodes/labyrinth/Thumbs.db"
+	]
+}

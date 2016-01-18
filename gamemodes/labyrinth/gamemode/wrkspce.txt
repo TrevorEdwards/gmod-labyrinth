@@ -1,0 +1,140 @@
+<NotepadPlus>
+    <Project name="Labyrinth">
+        <Folder name="backgrounds">
+            <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\backgrounds\bg1.jpg" />
+            <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\backgrounds\Thumbs.db" />
+        </Folder>
+        <Folder name="content">
+            <Folder name="maps" />
+            <Folder name="sound">
+                <Folder name="labyrinth" />
+            </Folder>
+        </Folder>
+        <Folder name="gamemode">
+            <Folder name="database">
+                <File name="database\cl_database.lua" />
+                <File name="database\database.lua" />
+            </Folder>
+            <Folder name="datatables">
+                <File name="datatables\humanmodels.lua" />
+                <File name="datatables\minomodels.lua" />
+                <File name="datatables\randomrooms.lua" />
+                <File name="datatables\randomeffects.lua" />
+                <File name="datatables\endgamesongs.lua" />
+                <File name="datatables\abilities.lua" />
+            </Folder>
+            <File name="cl_init.lua" />
+            <File name="init.lua" />
+            <File name="player.lua" />
+            <File name="shared.lua" />
+            <File name="mazegenerator.lua" />
+            <File name="drachma.lua" />
+            <File name="gamemanager.lua" />
+            <File name="specialeffects.lua" />
+            <File name="teleports.lua" />
+        </Folder>
+        <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\icon24.png" />
+        <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\labyrinth.txt" />
+        <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\logo.png" />
+        <Folder name="players">
+            <Folder name="16112486">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\data\labyrinth\players\16112486\database.txt" />
+            </Folder>
+            <Folder name="21628043">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\data\labyrinth\players\21628043\database.txt" />
+            </Folder>
+            <Folder name="3156531">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\data\labyrinth\players\3156531\database.txt" />
+            </Folder>
+            <Folder name="46938839">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\data\labyrinth\players\46938839\database.txt" />
+            </Folder>
+            <Folder name="50677035">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\data\labyrinth\players\50677035\database.txt" />
+            </Folder>
+        </Folder>
+        <Folder name="entities">
+            <Folder name="bonus_package">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\bonus_package\shared.lua" />
+            </Folder>
+            <Folder name="exit_beacon">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\exit_beacon\shared.lua" />
+            </Folder>
+            <Folder name="human_marker">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\human_marker\shared.lua" />
+            </Folder>
+            <Folder name="mino_marker">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\mino_marker\shared.lua" />
+            </Folder>
+            <Folder name="npc_annoyer">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\npc_annoyer\cl_init.lua" />
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\npc_annoyer\init.lua" />
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\npc_annoyer\shared.lua" />
+            </Folder>
+            <Folder name="npc_models">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\npc_models\cl_init.lua" />
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\npc_models\init.lua" />
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\npc_models\shared.lua" />
+            </Folder>
+            <Folder name="npc_skills">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\npc_skills\cl_init.lua" />
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\npc_skills\init.lua" />
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\npc_skills\shared.lua" />
+            </Folder>
+            <Folder name="package_drachma">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\package_drachma\shared.lua" />
+            </Folder>
+            <Folder name="package_spray">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\package_spray\shared.lua" />
+            </Folder>
+            <Folder name="package_tar">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\package_tar\shared.lua" />
+            </Folder>
+            <Folder name="trap_crusher">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\trap_crusher\shared.lua" />
+            </Folder>
+            <Folder name="trap_explosion">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\trap_explosion\shared.lua" />
+            </Folder>
+            <Folder name="trap_gate">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\trap_gate\shared.lua" />
+            </Folder>
+            <Folder name="trap_gate_rotating">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\trap_gate_rotating\shared.lua" />
+            </Folder>
+            <Folder name="trap_gate_sliding">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\trap_gate_sliding\shared.lua" />
+            </Folder>
+            <Folder name="trap_melonmancer">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\trap_melonmancer\shared.lua" />
+            </Folder>
+            <Folder name="weapon_package">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\entities\weapon_package\shared.lua" />
+            </Folder>
+        </Folder>
+        <Folder name="weapons">
+            <Folder name="pepperspray">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\weapons\pepperspray\cl_init.lua" />
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\weapons\pepperspray\init.lua" />
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\weapons\pepperspray\shared.lua" />
+            </Folder>
+            <Folder name="tarspray">
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\weapons\tarspray\cl_init.lua" />
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\weapons\tarspray\init.lua" />
+                <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\labyrinth\entities\weapons\tarspray\shared.lua" />
+            </Folder>
+        </Folder>
+    </Project>
+    <Project name="Melons2Melons">
+        <Folder name="player_class">
+            <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\melons2melons\gamemode\player_class\player_builder.lua" />
+            <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\melons2melons\gamemode\player_class\player_class.lua" />
+            <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\melons2melons\gamemode\player_class\player_deathmatcher.lua" />
+            <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\melons2melons\gamemode\player_class\player_judge.lua" />
+            <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\melons2melons\gamemode\player_class\player_observer.lua" />
+        </Folder>
+        <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\melons2melons\gamemode\cl_init.lua" />
+        <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\melons2melons\gamemode\init.lua" />
+        <File name="C:\SteamCMD\steamapps\common\GarrysModDS\garrysmod\gamemodes\melons2melons\gamemode\shared.lua" />
+    </Project>
+</NotepadPlus>

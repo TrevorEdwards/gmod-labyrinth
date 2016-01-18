@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "decals\labyrinth\human"
+	"$decalscale" "1.0"
+	"$decal" "1"
+	"$surfaceprop" "metal"
+	"Proxies"
+	{
+		"AnimatedTexture"
+			{
+				"animatedTextureVar""$basetexture"
+ 				"animatedTextureFrameNumVar" "$frame"
+  				"animatedTextureFrameRate" "0.5"
+  			}
+	}
+}
